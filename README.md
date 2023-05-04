@@ -1,7 +1,5 @@
 ## My vscode extensions
 
-#
-
 ```
 code --install-extension Sitrusy.90s-anime
 code --install-extension jvitorfrancisco.theme-acid-purple
