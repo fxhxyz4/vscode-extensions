@@ -111,6 +111,7 @@ code --install-extension Equinusocio.vsc-material-theme
 code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension unifiedjs.vscode-mdx
 code --install-extension ms-edgedevtools.vscode-edge-devtools
+code --install-extension astro-build.astro-vscode
 code --install-extension xenolithe.miku
 code --install-extension monokai.theme-monokai-pro-vscode
 code --install-extension PulkitGangwar.nextjs-snippets
@@ -137,6 +138,7 @@ code --install-extension ms-vscode.remote-explorer
 code --install-extension humao.rest-client
 code --install-extension MS-CEINTL.vscode-language-pack-ru
 code --install-extension moritanian.safety-background
+code --install-extension wicked-labs.astro-theme
 code --install-extension syler.sass-indented
 code --install-extension Wscats.eno
 code --install-extension timonwong.shellcheck
