@@ -62,6 +62,7 @@ code --install-extension felipecaputo.git-project-manager
 code --install-extension github.vscode-github-actions
 code --install-extension GitHub.copilot
 code --install-extension GitHub.vscode-pull-request-github
+code --install-extension evzen-wybitul.magic-racket
 code --install-extension GitHub.github-vscode-theme
 code --install-extension eamodio.gitlens
 code --install-extension golang.go
