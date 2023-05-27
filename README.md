@@ -7,11 +7,17 @@
 ### Download
 
 ```
-npm i fxh-vscode-extensions
+$ npm i -g fxh-vscode-extensions
+$ fxh-vscode-extensions
 ```
 
 or
 
 ```
-yarn add fxh-vscode-extensions
+$ yarn add -g fxh-vscode-extensions
+$ fxh-vscode-extensions
 ```
+
+#
+
+### License: [MIT](./LICENSE.md)
