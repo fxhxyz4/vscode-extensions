@@ -1,6 +1,6 @@
 {
 	"name": "fxh-vscode-extensions",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "My vscode extensions",
 	"keywords": [
 		"extensions",
@@ -28,5 +28,9 @@
 			"email": "fxhxyz@proton.me"
 		}
 	],
-	"license": "MIT"
+	"license": "MIT",
+	"dependencies": {
+		"child_process": "^1.0.2",
+		"colors": "^1.4.0"
+	}
 }
