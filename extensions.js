@@ -28,6 +28,7 @@ const extensions = [
 	"streetsidesoftware.code-spell-checker",
 	"CoderCoder.codercoder-dark-theme",
 	"naumovs.color-highlight",
+	"fernandoescolar.vscode-solution-explorer",
 	"bierner.color-info",
 	"anseki.vscode-color",
 	"qingpeng.common-lisp",
