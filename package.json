@@ -1,6 +1,6 @@
 {
 	"name": "fxh-vscode-extensions",
-	"version": "0.1.2",
+	"version": "0.1.3",
 	"description": "My vscode extensions",
 	"keywords": [
 		"extensions",
@@ -9,7 +9,8 @@
 		"vscode",
 		"python",
 		"themes",
-		"c++"
+		"c++",
+		"c#"
 	],
 	"author": {
 		"name": "fxhxyz4",
