@@ -67,6 +67,7 @@ const extensions = [
 	"github.vscode-github-actions",
 	"GitHub.copilot",
 	"GitHub.vscode-pull-request-github",
+	"webben.browserslist",
 	"evzen-wybitul.magic-racket",
 	"GitHub.github-vscode-theme",
 	"eamodio.gitlens",
